@@ -1,2 +1,2 @@
-streamlit
-sqlite3
+streamlit==1.39.0
+# Add any other dependencies you need here, without sqlite3
